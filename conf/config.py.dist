@@ -1,0 +1,34 @@
+# Set Database Location and Type
+# For MySQL Connections add ?charset=utf8mb4 for full Unicode Support
+dbLocation = 'mysql+pymysql://__DB_NAME__:__DB_PWD__@localhost/__DB_NAME__?charset=utf8mb4'
+
+# Redis Configuration
+redisHost="localhost" # Default localhost
+redisPort=6379 # Default 6379
+redisPassword='' # Default ''
+
+# Flask Secret Key
+secretKey="__SECRET_KEY__"
+
+# Password Salt Value
+passwordSalt="__PASSWORD_SALT__"
+
+# Allow Users to Register with the OSP Server
+allowRegistration=True
+
+# Require Users to Confirm their Email Addresses
+requireEmailRegistration=True
+
+# Enables Debug Mode
+debugMode = False
+
+# EJabberD Configuration
+ejabberdAdmin = "admin"
+ejabberdPass = "CHANGE_EJABBERD_PASS"
+ejabberdHost = "localhost"
+# ejabberdServer ="127.0.0.1"
+
+# ReCaptcha Configuration
+# RECAPTCHA_ENABLED = False
+# RECAPTCHA_SITE_KEY = "SomeKey"
+# RECAPTCHA_SECRET_KEY = "SomeOtherKey"

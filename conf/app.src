@@ -1,0 +1,7 @@
+SOURCE_URL=https://gitlab.com/Deamos/flask-nginx-rtmp-manager/-/archive/0.8.9/flask-nginx-rtmp-manager-0.8.9.tar.gz
+SOURCE_SUM=7c133260cba18271c84de18ca081dc69ec0b01c7d68236578acaa0ffbffef86f
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=tar.gz
+SOURCE_IN_SUBDIR=true
+SOURCE_FILENAME=
+SOURCE_EXTRACT=true
