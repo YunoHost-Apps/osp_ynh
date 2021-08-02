@@ -19,7 +19,7 @@ Explain in *a few (10~15) words* the purpose of the app or what it actually does
 
 **Shipped version:** 0.8.9~ynh1
 
-**Demo:** https://demo.example.com
+**Demo:** https://demo.openstreamingplatform.com/
 
 ## Screenshots
 
@@ -42,9 +42,9 @@ Explain in *a few (10~15) words* the purpose of the app or what it actually does
 
 ## Documentation and resources
 
-* Official app website: https://wiki.openstreamingplatform.com
+* Official app website: https://openstreamingplatform.com/
 * Official user documentation: https://yunohost.org/apps
-* Official admin documentation: https://yunohost.org/packaging_apps
+* Official admin documentation: https://wiki.openstreamingplatform.com
 * Upstream app code repository: https://gitlab.com/Deamos/flask-nginx-rtmp-manager
 * YunoHost documentation for this app: https://yunohost.org/app_osp
 * Report a bug: https://github.com/YunoHost-Apps/osp_ynh/issues
