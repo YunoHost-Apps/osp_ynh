@@ -13,7 +13,7 @@ Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour
 
 Expliquez en *quelques* (10~15) mots l'utilité de l'app ou ce qu'elle fait (l'objectif est de donner une idée grossière pour des utilisateurs qui naviguent dans un catalogue de 100+ apps)
 
-**Version incluse :** 0.8.9~ynh1
+**Version incluse :** 0.8.17~ynh1
 
 **Démo :** https://demo.openstreamingplatform.com/
 

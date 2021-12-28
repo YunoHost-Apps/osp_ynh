@@ -17,7 +17,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 Explain in *a few (10~15) words* the purpose of the app or what it actually does (it is meant to give a rough idea to users browsing a catalog of 100+ apps)
 
-**Shipped version:** 0.8.9~ynh1
+**Shipped version:** 0.8.17~ynh1
 
 **Demo:** https://demo.openstreamingplatform.com/
 
