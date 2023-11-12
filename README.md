@@ -16,18 +16,6 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 ## Overview
 
-Explain in *a few (10~15) words* the purpose of the app or what it actually does (it is meant to give a rough idea to users browsing a catalog of 100+ apps)
-
-**Shipped version:** 0.9.6~ynh1
-
-**Demo:** https://demo.openstreamingplatform.com/
-
-## Screenshots
-
-![Screenshot of Open Streaming Platform](./doc/screenshots/screenshot.png)
-
-## Disclaimers / important information
-
 * Any known limitations, constrains or stuff not working, such as (but not limited to):
     * requiring a full dedicated domain ?
     * architectures not supported ?
@@ -40,6 +28,15 @@ Explain in *a few (10~15) words* the purpose of the app or what it actually does
     * how to configure / administrate the application if it ain't obvious
     * upgrade process / specificities / things to be aware of ?
     * security considerations ?
+
+
+**Shipped version:** 0.9.6~ynh1
+
+**Demo:** https://demo.openstreamingplatform.com/
+
+## Screenshots
+
+![Screenshot of Open Streaming Platform](./doc/screenshots/screenshot.png)
 
 ## Documentation and resources
 
