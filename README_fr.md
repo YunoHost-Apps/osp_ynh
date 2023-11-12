@@ -5,15 +5,16 @@ It shall NOT be edited by hand.
 
 # Open Streaming Platform pour YunoHost
 
-[![Niveau d'intégration](https://dash.yunohost.org/integration/osp.svg)](https://dash.yunohost.org/appci/app/osp) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/osp.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/osp.maintain.svg)  
+[![Niveau d’intégration](https://dash.yunohost.org/integration/osp.svg)](https://dash.yunohost.org/appci/app/osp) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/osp.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/osp.maintain.svg)
+
 [![Installer Open Streaming Platform avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=osp)
 
 *[Read this readme in english.](./README.md)*
 
-> *Ce package vous permet d'installer Open Streaming Platform rapidement et simplement sur un serveur YunoHost.
-Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
+> *Ce package vous permet d’installer Open Streaming Platform rapidement et simplement sur un serveur YunoHost.
+Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
 
-## Vue d'ensemble
+## Vue d’ensemble
 
 Expliquez en *quelques* (10~15) mots l'utilité de l'app ou ce qu'elle fait (l'objectif est de donner une idée grossière pour des utilisateurs qui naviguent dans un catalogue de 100+ apps)
 
@@ -21,9 +22,9 @@ Expliquez en *quelques* (10~15) mots l'utilité de l'app ou ce qu'elle fait (l'o
 
 **Démo :** https://demo.openstreamingplatform.com/
 
-## Captures d'écran
+## Captures d’écran
 
-![Capture d'écran de Open Streaming Platform](./doc/screenshots/screenshot.png)
+![Capture d’écran de Open Streaming Platform](./doc/screenshots/screenshot.png)
 
 ## Avertissements / informations importantes
 
@@ -42,11 +43,11 @@ Expliquez en *quelques* (10~15) mots l'utilité de l'app ou ce qu'elle fait (l'o
 
 ## Documentations et ressources
 
-* Site officiel de l'app : <https://openstreamingplatform.com/>
+* Site officiel de l’app : <https://openstreamingplatform.com/>
 * Documentation officielle utilisateur : <https://yunohost.org/apps>
-* Documentation officielle de l'admin : <https://wiki.openstreamingplatform.com>
-* Dépôt de code officiel de l'app : <https://gitlab.com/Deamos/flask-nginx-rtmp-manager>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_osp>
+* Documentation officielle de l’admin : <https://wiki.openstreamingplatform.com>
+* Dépôt de code officiel de l’app : <https://gitlab.com/Deamos/flask-nginx-rtmp-manager>
+* YunoHost Store: <https://apps.yunohost.org/app/osp>
 * Signaler un bug : <https://github.com/YunoHost-Apps/osp_ynh/issues>
 
 ## Informations pour les développeurs
@@ -61,4 +62,4 @@ ou
 sudo yunohost app upgrade osp -u https://github.com/YunoHost-Apps/osp_ynh/tree/testing --debug
 ```
 
-**Plus d'infos sur le packaging d'applications :** <https://yunohost.org/packaging_apps>
+**Plus d’infos sur le packaging d’applications :** <https://yunohost.org/packaging_apps>
