@@ -5,7 +5,8 @@ It shall NOT be edited by hand.
 
 # Open Streaming Platform for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/osp.svg)](https://dash.yunohost.org/appci/app/osp) ![Working status](https://ci-apps.yunohost.org/ci/badges/osp.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/osp.maintain.svg)  
+[![Integration level](https://dash.yunohost.org/integration/osp.svg)](https://dash.yunohost.org/appci/app/osp) ![Working status](https://ci-apps.yunohost.org/ci/badges/osp.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/osp.maintain.svg)
+
 [![Install Open Streaming Platform with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=osp)
 
 *[Lire ce readme en français.](./README_fr.md)*
@@ -46,7 +47,7 @@ Explain in *a few (10~15) words* the purpose of the app or what it actually does
 * Official user documentation: <https://yunohost.org/apps>
 * Official admin documentation: <https://wiki.openstreamingplatform.com>
 * Upstream app code repository: <https://gitlab.com/Deamos/flask-nginx-rtmp-manager>
-* YunoHost documentation for this app: <https://yunohost.org/app_osp>
+* YunoHost Store: <https://apps.yunohost.org/app/osp>
 * Report a bug: <https://github.com/YunoHost-Apps/osp_ynh/issues>
 
 ## Developer info
