@@ -16,18 +16,6 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 ## Vue d’ensemble
 
-Expliquez en *quelques* (10~15) mots l'utilité de l'app ou ce qu'elle fait (l'objectif est de donner une idée grossière pour des utilisateurs qui naviguent dans un catalogue de 100+ apps)
-
-**Version incluse :** 0.9.6~ynh1
-
-**Démo :** https://demo.openstreamingplatform.com/
-
-## Captures d’écran
-
-![Capture d’écran de Open Streaming Platform](./doc/screenshots/screenshot.png)
-
-## Avertissements / informations importantes
-
 * Any known limitations, constrains or stuff not working, such as (but not limited to):
     * requiring a full dedicated domain ?
     * architectures not supported ?
@@ -40,6 +28,15 @@ Expliquez en *quelques* (10~15) mots l'utilité de l'app ou ce qu'elle fait (l'o
     * how to configure / administrate the application if it ain't obvious
     * upgrade process / specificities / things to be aware of ?
     * security considerations ?
+
+
+**Version incluse :** 0.9.6~ynh1
+
+**Démo :** https://demo.openstreamingplatform.com/
+
+## Captures d’écran
+
+![Capture d’écran de Open Streaming Platform](./doc/screenshots/screenshot.png)
 
 ## Documentations et ressources
 
