@@ -67,8 +67,13 @@ ram.runtime = "50M"
 
     [resources.install_dir]
 
+    [resources.ports]
+
     [resources.permissions]
     main.url = "/"
+
+    [resources.apt]
+    packages = "mariadb-server, build-essential, libpcre3, libpcre3-dev, libssl-dev, gunicorn3, uwsgi-plugin-python"
 
     [resources.database]
     type = "mysql"
