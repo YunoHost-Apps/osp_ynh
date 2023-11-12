@@ -1,6 +1,0 @@
-SOURCE_URL=https://gitlab.com/osp-group/flask-nginx-rtmp-manager/-/archive/0.9.6/flask-nginx-rtmp-manager-0.9.6.tar.gz
-SOURCE_SUM=2d322b307c2213015f1b43a2d2e80db020003645d7b46086123f0a8f994b9d22
-SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=tar.gz
-SOURCE_IN_SUBDIR=true
-SOURCE_EXTRACT=true
